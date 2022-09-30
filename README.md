@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StampedingLonghorn
+- 👀 I’m interested in coding wesbites and linux.
+- 🌱 I’m currently learning HTML, CSS, JS, and Python.
